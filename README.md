@@ -3,7 +3,7 @@
 
 ##  TIIIITULOOOOOOOOOOO
 Este proyecto forma parte de mi **Trabajo de Fin de Máster** en *Big Data, Data Science y Business Analytics*.  
-El objetivo es desarrollar un **sistema de recomendación** que, a partir del perfil y preferencias de un usuario, sugiera:
+El objetivo es desarrollar un sistema de recomendación que, a partir del perfil y preferencias de un usuario, sugiera:
 - **Ruta y época del año** más adecuadas.
 - **Plan de etapas.**
 - **Consejos personalizados** basados en experiencias previas.
