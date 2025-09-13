@@ -23,5 +23,5 @@ El alcance de este TFM comprende todo el ciclo de un proyecto de ciencia de dato
 ## Código del proyecto
 El desarrollo del código se ha realizado en Google Colab, lo que permite ejecutarlo de forma gratuita en la nube sin necesidad de configurar un entorno local. Para facilitar la reproducibilidad, los notebooks se encuentran disponibles en el repositorio de GitHub asociado al proyecto. Además, el archivo Memoria_TFM_Carmen_Valeria_Viñas_Salagodo.PDF proporciona los enlaces a los correspondientes notebooks en Google Colab.
 
-## Informe de Tableau
+## Informe en Tableau
 En este repositorio se encuentra también el archivo TFM.tbw que se corresponde a los dashboards para la visualización de los resultados y ejecución de la simulación en función de los filtros que sugiera el usuario.
