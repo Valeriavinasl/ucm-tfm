@@ -3,11 +3,11 @@
 
 ##  TIIIITULOOOOOOOOOOO
 Este proyecto forma parte de mi **Trabajo de Fin de Máster** en *Big Data, Data Science y Business Analytics*.  
-El objetivo es desarrollar un **sistema web de recomendación** que, a partir del perfil y preferencias de un posible peregrino, sugiera:
+El objetivo es desarrollar un **sistema de recomendación** que, a partir del perfil y preferencias de un usuario, sugiera:
 - **Ruta y época del año** más adecuadas.
-- **Plan de etapas** (número de días, distancia y dureza).
+- **Plan de etapas.**
 - **Consejos personalizados** basados en experiencias previas.
-- **Estimación de riesgo de lesiones** para optimizar la planificación.
+- **Probabilidad de lesión** para optimizar la planificación.
 
 
 ## Objetivos
@@ -22,3 +22,6 @@ El alcance de este TFM comprende todo el ciclo de un proyecto de ciencia de dato
 
 ## Código del proyecto
 El desarrollo del código se ha realizado en Google Colab, lo que permite ejecutarlo de forma gratuita en la nube sin necesidad de configurar un entorno local. Para facilitar la reproducibilidad, los notebooks se encuentran disponibles en el repositorio de GitHub asociado al proyecto. Además, el archivo Memoria_TFM_Carmen_Valeria_Viñas_Salagodo.PDF proporciona los enlaces a los correspondientes notebooks en Google Colab.
+
+## Informe de Tableau
+En este repositorio se encuentra también el archivo TFM.tbw que se corresponde a los dashboards para la visualización de los resultados y ejecución de la simulación en función de los filtros que sugiera el usuario.
