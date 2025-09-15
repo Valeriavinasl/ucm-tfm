@@ -5,7 +5,6 @@ import unicodedata
 import csv
 from collections import Counter
 
-
 ## visualización
 import matplotlib.pyplot as plt
 %matplotlib inline
