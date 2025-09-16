@@ -22,7 +22,7 @@ El alcance de este TFM comprende todo el ciclo de un proyecto de ciencia de dato
 El vídeo con la presentación del proyecto supera el tamaño permitido en la entrega del campus vistual. Se ha optado por subirlo al Drive:
 - Vídeo:
 
-- 
+  
 ## Código del proyecto
 El desarrollo del código se ha realizado en Google Colab, lo que permite ejecutarlo de forma gratuita en la nube sin necesidad de configurar un entorno local. Para facilitar la reproducibilidad, los notebooks se encuentran disponibles en el repositorio de GitHub asociado al proyecto. Además, el archivo Memoria_TFM_Carmen_Valeria_Viñas_Salagodo.PDF proporciona los enlaces a los correspondientes notebooks en Google Colab:
 - Limpieza:  https://colab.research.google.com/drive/1yFUH5dxDLfzgYiRiBe0ZrcQuz9BFTl4k?usp=sharing
