@@ -29,5 +29,7 @@ El desarrollo del código se ha realizado en Google Colab, lo que permite ejecut
 - Feature Engineering: https://colab.research.google.com/drive/1CZ1sxIRk_B2qreveOeDfBWelsRVAG4O0?usp=sharing
 - Modelado: https://drive.google.com/file/d/1764QZCla4JfcJKw09teCquIHR0RCcif6/view?usp=sharing
 
+  *Si alguno de los archivos no se abre directamente, hay que seleccionar Abrir con -> Google Colaboratory.
+
 ## Informe en Tableau
 En este repositorio se encuentra también el archivo Dashboards.twb que se corresponde a los dashboards para la visualización de los resultados y ejecución de la simulación en función de los filtros. Se adjunta también en el .zip de la entrega en el campus virtual, para ser abierto con Tableau Public.
