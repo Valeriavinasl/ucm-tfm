@@ -30,4 +30,4 @@ El desarrollo del código se ha realizado en Google Colab, lo que permite ejecut
 - Modelado: https://drive.google.com/file/d/1764QZCla4JfcJKw09teCquIHR0RCcif6/view?usp=sharing
 
 ## Informe en Tableau
-En este repositorio se encuentra también el archivo TFM.twb que se corresponde a los dashboards para la visualización de los resultados y ejecución de la simulación en función de los filtros. Se adjunta también en el .zip de la entrega en el campus virtual, para ser abierto con Tableau Public.
+En este repositorio se encuentra también el archivo Dashboards.twb que se corresponde a los dashboards para la visualización de los resultados y ejecución de la simulación en función de los filtros. Se adjunta también en el .zip de la entrega en el campus virtual, para ser abierto con Tableau Public.
