@@ -23,7 +23,7 @@ El vídeo con la presentación del proyecto supera el tamaño permitido en la en
 - Vídeo: https://youtu.be/BdwquYOmO24
   
 ## Código del proyecto
-El desarrollo del código se ha realizado en Google Colab, lo que permite ejecutarlo de forma gratuita en la nube sin necesidad de configurar un entorno local. Para facilitar la reproducibilidad, los notebooks se encuentran disponibles en el repositorio de GitHub asociado al proyecto. Además, el archivo Memoria_TFM_Carmen_Valeria_Viñas_Salagodo.PDF proporciona los enlaces a los correspondientes notebooks en Google Colab:
+El desarrollo del código se ha realizado en Google Colab, lo que permite ejecutarlo de forma gratuita en la nube sin necesidad de configurar un entorno local. Para facilitar la reproducibilidad, los notebooks se encuentran disponibles en el repositorio de GitHub asociado al proyecto. Además, el archivo Memoria_TFM_Carmen_Valeria_Viñas_Salgado.pdf proporciona los enlaces a los correspondientes notebooks en Google Colab:
 - Limpieza:  https://colab.research.google.com/drive/1yFUH5dxDLfzgYiRiBe0ZrcQuz9BFTl4k?usp=sharing
 - EDA: https://colab.research.google.com/drive/1WIb6pn3nQL7zvWuqDls-xyYCUfsxRRII?usp=sharing
 - Feature Engineering: https://colab.research.google.com/drive/1CZ1sxIRk_B2qreveOeDfBWelsRVAG4O0?usp=sharing
