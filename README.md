@@ -20,7 +20,7 @@ El alcance de este TFM comprende todo el ciclo de un proyecto de ciencia de dato
 
 ## Vídeo de presentación
 El vídeo con la presentación del proyecto supera el tamaño permitido en la entrega del campus vistual. Se ha optado por subirlo al Drive:
-- Vídeo:
+- Vídeo: https://youtu.be/BdwquYOmO24
 
   
 ## Código del proyecto
